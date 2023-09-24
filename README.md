@@ -43,3 +43,4 @@ Enjoy arm wrestling in GTA with the QB-Core Arm Wrestling Script! Have fun chall
 ## Future Updates
 - Adding support to challenge NPC's
 - Making it easier to set up multiple locations
+- Support for multiple frameworks (if wanted)
