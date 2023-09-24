@@ -5,11 +5,11 @@ author 'AutLaaw'
 version '1.0.0'
 
 client_scripts {
-    'client/main.lua'
+    'client/*'
 }
 
 server_scripts {
-    'server/main.lua',
+    'server/*'
 }
 
 shared_scripts {
