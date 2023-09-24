@@ -1,4 +1,4 @@
-# QB-Core Arm Wrestling Script for GTA (Rewrite of Standalone Arm Wrestling by [Github repository](https://forum.cfx.re/t/release-standalone-arm-wrestling/2607772))
+# QB-Core Arm Wrestling Script for GTA (Rewrite of Standalone Arm Wrestling by [Evy](https://forum.cfx.re/t/release-standalone-arm-wrestling/2607772))
 # This is not my resource I just rewrote it to support all the latest QB-Core updates and features.
 
 Welcome to the QB-Core Arm Wrestling Script for GTA, rewritten by AutLaaw. This script is a rewrite of the popular Standalone Arm Wrestling script made by Evy, bringing enhanced features and compatibility with QB-Core. Challenge your friends or other players to a fierce arm wrestling competition and test your strength!
