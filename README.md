@@ -16,7 +16,7 @@ Welcome to the QB-Core Arm Wrestling Script for GTA, rewritten by AutLaaw. This 
 
 1. Make sure you have [QB-Core](https://github.com/qbcore-framework/qb-core)
 
-2. Download the latest release of this script from the [GitHub repository](https://github.com/AutLaaw/qb-armwrestling)
+2. Download the latest release of this script from the [GitHub repository](https://github.com/AutLaaw/qb-armwrestle)
 
 3. Place the script folder into your server's resources directory.
 
@@ -32,7 +32,7 @@ To initiate an arm wrestling match, use the interaction point configured in the 
 
 ## Support
 
-If you encounter any issues or have questions about this script, feel free to open an issue on the [GitHub repository](https://github.com/AutLaaw/qb-armwrestling). You can also reach out to me on Discord at [AutLaaw].
+If you encounter any issues or have questions about this script, feel free to open an issue on the [GitHub repository](https://github.com/AutLaaw/qb-armwrestle). You can also reach out to me on Discord at [AutLaaw].
 
 ## Contributing
 
