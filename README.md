@@ -20,7 +20,7 @@ Welcome to the QB-Core Arm Wrestling Script for GTA, rewritten by AutLaaw. This 
 
 3. Place the script folder into your server's resources directory.
 
-4. Add `ensure qb-armwrestling` to your server.cfg file to start the script.
+4. Add `ensure qb-armwrestle` to your server.cfg file to start the script.
 
 5. Configure the script settings in the `config.lua` file according to your preferences.
 
