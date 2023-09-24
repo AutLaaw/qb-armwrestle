@@ -14,7 +14,7 @@ Welcome to the QB-Core Arm Wrestling Script for GTA, rewritten by AutLaaw. This 
 
 ## Installation
 
-1. Make sure you have [QB-Core](https://github.com/qbcore-framework/qb-core)
+1. Make sure you have the QB-Core framework [QB-Core](https://github.com/qbcore-framework/qb-core)
 
 2. Download the latest release of this script from the [GitHub repository](https://github.com/AutLaaw/qb-armwrestle)
 
@@ -39,3 +39,7 @@ If you encounter any issues or have questions about this script, feel free to op
 Contributions are welcome! If you have improvements, bug fixes, or new features to add, please fork this repository, make your changes, and submit a pull request.
 
 Enjoy arm wrestling in GTA with the QB-Core Arm Wrestling Script! Have fun challenging your opponents and friends to see who's the strongest!
+
+## Future Updates
+- Adding support to challenge NPC's
+- Making it easier to set up multiple locations
