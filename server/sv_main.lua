@@ -85,6 +85,7 @@ AddEventHandler('qb-armwrestle:disband_sv', function(position)
                 sessions[i].place1 = 0
                 sessions[i].place2 = 0
                 sessions[i].started = false
+                sessions[i].grade = 0.5
                 break
             end
 
